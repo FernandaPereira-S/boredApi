@@ -7,7 +7,7 @@
   text-align: center;
   border-radius: 10px;
   padding: 20px 0 5px 0;
-  box-shadow: 0 0 20px hsl(0, 2%, 89%);
+  box-shadow: 0 0 20px #e4e2e2;
 }
 
 .dropdown-menu li, .dropdown-menu2 li { 
@@ -20,11 +20,11 @@
 }
 
 .dropdown-link {
-  color: hsl(0, 0%, 41%);
+  color: #696969;
 }
 
 .dropdown-link:hover {
-  color: hsl(0, 0%, 8%);
+  color: #141414;
 }
 
 .dropdown-menu img {
@@ -33,7 +33,7 @@
 
 @media screen and (max-width: 960px) {
   .dropdown-menu, .dropdown-menu2 {
-    background-color: hsl(0, 0%, 98%);
+    background-color: #fafafa;
     top: 90px;
     border-radius: 0;
     box-shadow: 0 0 0;
