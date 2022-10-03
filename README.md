@@ -10,6 +10,9 @@ Your users should be able to:
 - View the optimal layout for the content depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+## Acesse o site do projeto
+[link](https://bored-api-sigma.vercel.app/)
+
 ### nota extra - Fábio ####
 - implementar apenas uma página da navegação - Todo List, acessando a API: http://www.boredapi.com/api/activity/ e renderizando o resultado em um componente card.
   documentação da API:https://www.boredapi.com/documentation#endpoints-random
